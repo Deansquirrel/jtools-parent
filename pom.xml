@@ -4,10 +4,11 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.deansquirrel</groupId>
   <artifactId>tools-parent</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
   <name>tools-parent</name>
   <url>https://github.com/Deansquirrel/jtools-parent</url>
   <description>tools parent</description>
+  <packaging>pom</packaging>
 
   <licenses>
     <license>
