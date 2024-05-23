@@ -10,7 +10,8 @@
   </parent>
   <groupId>com.github.deansquirrel</groupId>
   <artifactId>tools-parent</artifactId>
-  <version>0.0.0</version>
+<!--  <version>0.0.0</version>-->
+  <version>1.0.0</version>
   <name>tools-parent</name>
   <url>https://github.com/Deansquirrel/jtools-parent</url>
   <description>tools parent</description>
@@ -142,11 +143,10 @@
       <!--        <version>${spring-core}</version>-->
       <!--      </dependency>-->
 
-      <!--      <dependency>-->
-      <!--        <groupId>org.springframework</groupId>-->
-      <!--        <artifactId>spring-web</artifactId>-->
-      <!--        <version>${spring-web}</version>-->
-      <!--      </dependency>-->
+<!--            <dependency>-->
+<!--              <groupId>org.springframework</groupId>-->
+<!--              <artifactId>spring-web</artifactId>-->
+<!--            </dependency>-->
       <!--      <dependency>-->
       <!--        <groupId>org.springframework.boot</groupId>-->
       <!--        <artifactId>spring-boot-autoconfigure</artifactId>-->
@@ -177,17 +177,6 @@
               <autoReleaseAfterClose>true</autoReleaseAfterClose>
             </configuration>
           </plugin>
-<!--          <plugin>-->
-<!--            <groupId>org.sonatype.plugins</groupId>-->
-<!--            <artifactId>nexus-staging-maven-plugin</artifactId>-->
-<!--            <version>1.6.7</version>-->
-<!--            <extensions>true</extensions>-->
-<!--            <configuration>-->
-<!--              <serverId>ossrh</serverId>-->
-<!--              <nexusUrl>https://oss.sonatype.org/</nexusUrl>-->
-<!--              <autoReleaseAfterClose>true</autoReleaseAfterClose>-->
-<!--            </configuration>-->
-<!--          </plugin>-->
           <plugin>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-gpg-plugin</artifactId>
