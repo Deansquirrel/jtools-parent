@@ -11,7 +11,7 @@
   <groupId>com.github.deansquirrel</groupId>
   <artifactId>tools-parent</artifactId>
 <!--  <version>0.0.0</version>-->
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <name>tools-parent</name>
   <url>https://github.com/Deansquirrel/jtools-parent</url>
   <description>tools parent</description>
@@ -76,7 +76,7 @@
         <version>${org.aspectj}</version>
       </dependency>
       <dependency>
-        <groupId>mysql</groupId>
+        <groupId>com.mysql</groupId>
         <artifactId>mysql-connector-j</artifactId>
         <version>${mysql-connector-j}</version>
       </dependency>
