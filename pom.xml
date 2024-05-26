@@ -10,8 +10,8 @@
   </parent>
   <groupId>com.github.deansquirrel</groupId>
   <artifactId>tools-parent</artifactId>
-<!--  <version>0.0.0</version>-->
-  <version>1.0.1</version>
+  <version>0.0.0</version>
+<!--  <version>1.0.1</version>-->
   <name>tools-parent</name>
   <url>https://github.com/Deansquirrel/jtools-parent</url>
   <description>tools parent</description>
