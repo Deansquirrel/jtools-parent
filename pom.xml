@@ -11,7 +11,7 @@
   <groupId>com.github.deansquirrel</groupId>
   <artifactId>tools-parent</artifactId>
 <!--  <version>0.0.0</version>-->
-  <version>1.0.2</version>
+  <version>1.0.3</version>
   <name>tools-parent</name>
   <url>https://github.com/Deansquirrel/jtools-parent</url>
   <description>tools parent</description>
@@ -35,7 +35,7 @@
     <java.version>1.8</java.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <mysql-connector-j>8.0.33</mysql-connector-j>
-    <sqlite-jdbc>3.44.1.0</sqlite-jdbc>
+    <sqlite-jdbc>3.46.1.3</sqlite-jdbc>
     <com.alibaba.druid>1.1.22</com.alibaba.druid>
     <org.aspectj>1.9.22</org.aspectj>
     <org.apache.poi>5.2.5</org.apache.poi>
